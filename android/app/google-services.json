@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "990078114690",
+    "firebase_url": "https://kodluyoruz-b38af.firebaseio.com",
+    "project_id": "kodluyoruz-b38af",
+    "storage_bucket": "kodluyoruz-b38af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990078114690:android:024bf25723053f3a2b0d9b",
+        "android_client_info": {
+          "package_name": "com.den"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990078114690-isv28ijmtg7306jp15bksa9906or04rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR3oIv2a6bwfZOx5ztLoOr72Kwmjrr5L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990078114690-isv28ijmtg7306jp15bksa9906or04rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990078114690:android:9da0b5f0afce08702b0d9b",
+        "android_client_info": {
+          "package_name": "com.proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990078114690-isv28ijmtg7306jp15bksa9906or04rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR3oIv2a6bwfZOx5ztLoOr72Kwmjrr5L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990078114690-isv28ijmtg7306jp15bksa9906or04rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
